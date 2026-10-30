@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700&family=Source+Sans+3:wght@400;600&display=swap');
+
+:root {
+  --accent: #b44f1b;
+  --accent-hover: #933b12;
+  --gold: #e8b56d;
+  --bg: #fff8ef;
+  --card: #ffffff;
+  --section: #f4e1c5;
+  --soft: #fbe8d9;
+  --text: #3b2418;
+  --muted: #765a47;
+  --border: #dcc4a6;
+  --surface-strong: #ffffff;
+  font-family: 'Source Sans 3', 'Segoe UI', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: var(--text);
+  background: var(--bg);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100%;
+  background: var(--bg);
+}
+
+body {
+  min-width: 320px;
+}

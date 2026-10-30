@@ -1,0 +1,218 @@
+[
+  {
+    "id": "peanut-raw",
+    "name": "Арахис сырой",
+    "pricePerKg": 280,
+    "unit": "1 кг",
+    "accent": "#c4a35a",
+    "category": "nuts",
+    "image": "/products/peanut-raw.jpg"
+  },
+  {
+    "id": "dates-royal-s",
+    "name": "Финики королевские S",
+    "pricePerKg": 859,
+    "unit": "1 кг",
+    "accent": "#8b4513",
+    "category": "fruit",
+    "image": "/products/dates-royal-s.jpg"
+  },
+  {
+    "id": "dates-jumbo",
+    "name": "Финики королевские Джамбо",
+    "pricePerKg": 1200,
+    "unit": "1 кг",
+    "accent": "#6b3e26",
+    "category": "fruit",
+    "image": "/products/dates-jumbo.jpg"
+  },
+  {
+    "id": "hazelnut-raw-georgia",
+    "name": "Фундук сырой бланшированный крупный Грузия",
+    "pricePerKg": 1950,
+    "unit": "1 кг",
+    "accent": "#5c3317",
+    "category": "nuts",
+    "image": "/products/hazelnut-raw-georgia.jpg"
+  },
+  {
+    "id": "kuraga-small",
+    "name": "Курага мелкая",
+    "pricePerKg": 500,
+    "unit": "1 кг",
+    "accent": "#e07a3d",
+    "category": "fruit",
+    "image": "/products/kuraga-small.jpg"
+  },
+  {
+    "id": "kuraga-turkey",
+    "name": "Курага Турция",
+    "pricePerKg": 1250,
+    "unit": "1 кг",
+    "accent": "#c45c26",
+    "category": "fruit",
+    "image": "/products/kuraga-turkey.jpg"
+  },
+  {
+    "id": "pistachio-california",
+    "name": "Фисташки Калифорния",
+    "pricePerKg": 1600,
+    "unit": "1 кг",
+    "accent": "#6b8e23",
+    "category": "nuts",
+    "image": "/products/pistachio-california.jpg"
+  },
+  {
+    "id": "persimmon",
+    "name": "Хурма",
+    "pricePerKg": 950,
+    "unit": "1 кг",
+    "accent": "#d35400",
+    "category": "fruit",
+    "image": "/products/persimmon.jpg"
+  },
+  {
+    "id": "kuraga-armenia",
+    "name": "Курага Армения",
+    "pricePerKg": 1000,
+    "unit": "1 кг",
+    "accent": "#c45c26",
+    "category": "fruit",
+    "image": "/products/kuraga-armenia.jpg"
+  },
+  {
+    "id": "walnut",
+    "name": "Грецкий орех",
+    "pricePerKg": 700,
+    "unit": "1 кг",
+    "accent": "#8b5a2b",
+    "category": "nuts",
+    "image": "/products/walnut.jpg"
+  },
+  {
+    "id": "cashew-raw",
+    "name": "Кешью сырой",
+    "pricePerKg": 1000,
+    "unit": "1 кг",
+    "accent": "#d2b48c",
+    "category": "nuts",
+    "image": "/products/cashew-raw.jpg"
+  },
+  {
+    "id": "cashew-roasted",
+    "name": "Кешью жаренный",
+    "pricePerKg": 1200,
+    "unit": "1 кг",
+    "accent": "#b8860b",
+    "category": "nuts",
+    "image": "/products/cashew-roasted.jpg"
+  },
+  {
+    "id": "prune-chile",
+    "name": "Чернослив Чили",
+    "pricePerKg": 700,
+    "unit": "1 кг",
+    "accent": "#4a2c2a",
+    "category": "fruit",
+    "image": "/products/prune-chile.jpg"
+  },
+  {
+    "id": "cranberry",
+    "name": "Клюква",
+    "pricePerKg": 750,
+    "unit": "1 кг",
+    "accent": "#b22222",
+    "category": "berries",
+    "image": "/products/cranberry.jpg"
+  },
+  {
+    "id": "churchkhela",
+    "name": "Чурчхела Армения",
+    "pricePerKg": 1000,
+    "unit": "1 кг",
+    "accent": "#8b4513",
+    "category": "fruit",
+    "image": "/products/churchkhela.jpg"
+  },
+  {
+    "id": "raisins",
+    "name": "Изюм",
+    "pricePerKg": 350,
+    "unit": "1 кг",
+    "accent": "#b8860b",
+    "category": "fruit",
+    "image": "/products/raisins.jpg"
+  },
+  {
+    "id": "fig",
+    "name": "Инжир",
+    "pricePerKg": 1050,
+    "unit": "1 кг",
+    "accent": "#a0522d",
+    "category": "fruit",
+    "image": "/products/fig.jpg"
+  },
+  {
+    "id": "walnut-chocolate",
+    "name": "Грецкий орех в шоколаде",
+    "pricePerKg": 950,
+    "unit": "1 кг",
+    "accent": "#3b2418",
+    "category": "nuts",
+    "image": "/products/walnut-chocolate.jpg"
+  },
+  {
+    "id": "almond-sugar",
+    "name": "Миндаль в сахаре",
+    "pricePerKg": 850,
+    "unit": "1 кг",
+    "accent": "#e8b56d",
+    "category": "nuts",
+    "image": "/products/almond-sugar.jpg"
+  },
+  {
+    "id": "plum-armenia",
+    "name": "Слива сушеная Армения",
+    "pricePerKg": 1000,
+    "unit": "1 кг",
+    "accent": "#6b3e26",
+    "category": "fruit",
+    "image": "/products/plum-armenia.jpg"
+  },
+  {
+    "id": "tomato-dried-armenia",
+    "name": "Томаты вяленые Армения",
+    "pricePerKg": 1050,
+    "unit": "1 кг",
+    "accent": "#a63d2f",
+    "category": "fruit",
+    "image": "/products/tomato-dried-armenia.jpg"
+  },
+  {
+    "id": "orange-dried",
+    "name": "Апельсины сушеные",
+    "pricePerKg": 900,
+    "unit": "1 кг",
+    "accent": "#e67e22",
+    "category": "fruit",
+    "image": "/products/orange-dried.jpg"
+  },
+  {
+    "id": "chia-seeds",
+    "name": "Семена чиа",
+    "pricePerKg": 430,
+    "unit": "1 кг",
+    "accent": "#7a5c3a",
+    "category": "nuts",
+    "image": "/products/chia-seeds.jpg"
+  },
+  {
+    "id": "hazelnut-raw-azerbaijan",
+    "name": "Фундук сырой 13-15 Азербайджан",
+    "pricePerKg": 950,
+    "unit": "1 кг",
+    "accent": "#6b4423",
+    "category": "nuts",
+    "image": "/products/hazelnut-raw-azerbaijan.jpg"
+  }
+]
